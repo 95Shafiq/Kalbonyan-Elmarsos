@@ -1,0 +1,27 @@
+Use cases:
+Title: Play a song
+Actor: User
+Scenario:
+The system Identifies the user. The user browses the albums. The user chooses a song from the album. The system plays the song.
+
+Title: Queue songs
+Actor: User
+Scenario:
+* The system Identifies the user
+* The user browses the liberary for a song
+* The system plays a song
+* The user keeps browsing
+* The user chooses another song
+* The new song gets queued
+
+Title: New user's song
+Actor: User
+Scenario:
+* The system identifies the user
+* The user browses the liberary for a song
+* The user chooses a song
+* The system checks if the song queue has more than three songs
+* The system iserts the song on the top of the queue
+
+User Stories:
+As a user I want my song to be added to the start of the queue so I don't have to wait too long to listen to it

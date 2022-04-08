@@ -19,13 +19,13 @@
 <span id="Fundamentals"> </span>
 # Learn Programing Fundamentals ,HTML and CSS
 
-![8%](https://progress-bar.dev/8/?title=Done)
+![3/12%](https://progress-bar.dev/8/?title=Done)
 <br />
 - ## Programming Foundations series and HTML and CSS from Linkdin Learning
 
     - [x] ![#0D64C3](https://via.placeholder.com/12/0D64C3/000000?text=+) ` done` ` 2h 6m 40s` - 01 - [Programming Foundations: Fundamentals](LinkedIn_Learning/01_Become_a_Programmer/)
     - [x] ![#0D64C3](https://via.placeholder.com/12/0D64C3/000000?text=+) ` done` ` 2h 4m 44s` - 02 - [Programming Foundations: Beyond the Fundamentals](LinkedIn_Learning/02_Beyond_the_Fundamentals)
-    - [ ] ![#0D64C3](https://via.placeholder.com/12/0D64C3/000000?text=+) ` in progress` ` 2h 40m 37s` - 03 - [Programming Foundations: Object-Oriented Design](Linkedin-Learning/Programming-Foundation-Object-Oriented-Design/)
+    - [x] ![#0D64C3](https://via.placeholder.com/12/0D64C3/000000?text=+) ` done` ` 2h 40m 37s` - 03 - [Programming Foundations: Object-Oriented Design](Linkedin-Learning/Programming-Foundation-Object-Oriented-Design/)
     - [ ] ![#0D64C3](https://via.placeholder.com/12/0D64C3/000000?text=+) ` in progress` ` 1h 45m 30s` - 04 - [Programming Foundations: Algorithms](Linkedin-Learning/Programming-Foundations-Algorithms/)
     - [ ] ![#0D64C3](https://via.placeholder.com/12/0D64C3/000000?text=+) ` in progress` ` 2h 20m 56s` - 05 - [Programming Foundations: Data Structures](Linkedin-Learning/Programming-Foundations-Data-Structures/)
     - [ ] ![#0D64C3](https://via.placeholder.com/12/0D64C3/000000?text=+) ` in progress` ` 1h 44m 23s` - 06 - [Programming Foundations: Design Patterns](Linkedin-Learning/Programming-Foundations-Design-Patterns/)

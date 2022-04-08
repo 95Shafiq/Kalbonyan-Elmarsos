@@ -1,0 +1,15 @@
+The System must:
+    Have a liberary of albums and songs
+    Allow user to browse the liberary
+    Allow the user to select a song or an album
+    Allow the user to queue more than one song
+    Prevent the user from queuing more than 3 songs
+    Paly music
+    Allow users to sort by artist
+    Identify indivisual users
+    
+The System should be:
+    Space friendly
+    Be available 24/7
+    Low-power
+    Updatable
