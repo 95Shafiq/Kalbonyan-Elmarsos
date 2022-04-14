@@ -34,7 +34,7 @@ Kalbonyan Elmarsos is an Egyptian non-profit organization whose goal is to help 
   - [x] ![#0D64C3](https://via.placeholder.com/12/0D64C3/000000?text=+) ` done` ` 2h 4m 44s` - 02 - [Programming Foundations: Beyond the Fundamentals](LinkedIn_Learning/02_Beyond_the_Fundamentals)
   - [x] ![#0D64C3](https://via.placeholder.com/12/0D64C3/000000?text=+) ` done` ` 2h 40m 37s` - 03 - [Programming Foundations: Object-Oriented Design](LinkedIn_Learning/03_OOP_Fundamentals)
   - [x] ![#0D64C3](https://via.placeholder.com/12/0D64C3/000000?text=+) ` done` ` 2h 20m 56s` - 04 - [Programming Foundations: Data Structures](LinkedIn_Learning/04_Programming_Foundations_Data_Structures)
-  - [x] ![#0D64C3](https://via.placeholder.com/12/0D64C3/000000?text=+) ` in progress` ` 1h 45m 30s` - 05 - [Programming Foundations: Algorithms](LinkedIn_Learning/05_Programming_Foundations_Algorithms)
+  - [x] ![#0D64C3](https://via.placeholder.com/12/0D64C3/000000?text=+) ` done` ` 1h 45m 30s` - 05 - [Programming Foundations: Algorithms](LinkedIn_Learning/05_Programming_Foundations_Algorithms)
   - [ ] ![#0D64C3](https://via.placeholder.com/12/0D64C3/000000?text=+) ` in progress` ` 1h 44m 23s` - 06 - [Programming Foundations: Design Patterns](Linkedin-Learning/Programming-Foundations-Design-Patterns/)
   - [ ] ![#0D64C3](https://via.placeholder.com/12/0D64C3/000000?text=+) ` in progress` ` 1h 25m 15s` - 07 - [Programming Foundations: Databases](Linkedin-Learning/Programming-Foundations-Databases/)
   - [ ] ![#0D64C3](https://via.placeholder.com/12/0D64C3/000000?text=+) ` in progress` ` 1h 14m 28s` - 08 - [Programming Foundations: APIs and Web Services](Linkedin-Learning/Programming-Foundations-APIs-and-Web-Services/)
