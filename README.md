@@ -21,24 +21,24 @@ Kalbonyan Elmarsos is an Egyptian non-profit organization whose goal is to help 
 
 <!-- Fundamentals -->
 
-<span id="Fundamentals"> </span>
+<span id="Fundamentals"></span>
 
-# Learn Programing Fundamentals ,HTML and CSS
+# Learn Programing Fundamentals, HTML and CSS
 
-![42%](https://progress-bar.dev/42/?title=Done)
+![50%](https://progress-bar.dev/50/?title=Done)
 <br />
 
-- ## Programming Foundations series and HTML and CSS from Linkdin Learning
+- ## Programming Foundations series and HTML and CSS from LinkedIn Learning
 
   - [x] ![#0D64C3](https://via.placeholder.com/12/0D64C3/000000?text=+) ` done` ` 2h 6m 40s` - 01 - [Programming Foundations: Fundamentals](LinkedIn_Learning/01_Become_a_Programmer/)
   - [x] ![#0D64C3](https://via.placeholder.com/12/0D64C3/000000?text=+) ` done` ` 2h 4m 44s` - 02 - [Programming Foundations: Beyond the Fundamentals](LinkedIn_Learning/02_Beyond_the_Fundamentals)
   - [x] ![#0D64C3](https://via.placeholder.com/12/0D64C3/000000?text=+) ` done` ` 2h 40m 37s` - 03 - [Programming Foundations: Object-Oriented Design](LinkedIn_Learning/03_OOP_Fundamentals)
   - [x] ![#0D64C3](https://via.placeholder.com/12/0D64C3/000000?text=+) ` done` ` 2h 20m 56s` - 04 - [Programming Foundations: Data Structures](LinkedIn_Learning/04_Programming_Foundations_Data_Structures)
   - [x] ![#0D64C3](https://via.placeholder.com/12/0D64C3/000000?text=+) ` done` ` 1h 45m 30s` - 05 - [Programming Foundations: Algorithms](LinkedIn_Learning/05_Programming_Foundations_Algorithms)
-  - [ ] ![#0D64C3](https://via.placeholder.com/12/0D64C3/000000?text=+) ` in progress` ` 1h 44m 23s` - 06 - [Programming Foundations: Design Patterns](Linkedin-Learning/Programming-Foundations-Design-Patterns/)
-  - [ ] ![#0D64C3](https://via.placeholder.com/12/0D64C3/000000?text=+) ` in progress` ` 1h 25m 15s` - 07 - [Programming Foundations: Databases](Linkedin-Learning/Programming-Foundations-Databases/)
-  - [ ] ![#0D64C3](https://via.placeholder.com/12/0D64C3/000000?text=+) ` in progress` ` 1h 14m 28s` - 08 - [Programming Foundations: APIs and Web Services](Linkedin-Learning/Programming-Foundations-APIs-and-Web-Services/)
-  - [ ] ![#0D64C3](https://via.placeholder.com/12/0D64C3/000000?text=+) ` in progress` ` 53m 51s` - 09 - [Programming Foundations: Software Testing/QA](Linkedin-Learning/Programming-Foundations-Software-TestingQA/)
+  - [ ] ![#0D64C3](https://via.placeholder.com/12/0D64C3/000000?text=+) ` in progress` ` 1h 44m 23s` - 06 - [Programming Foundations: Design Patterns](Linkedin-Learning/06_Programming_Foundations_Design_Patterns/)
+  - [x] ![#0D64C3](https://via.placeholder.com/12/0D64C3/000000?text=+) ` done` ` 1h 25m 15s` - 07 - [Programming Foundations: Databases](Linkedin-Learning/07_Programming_Foundations_Databases/)
+  - [ ] ![#0D64C3](https://via.placeholder.com/12/0D64C3/000000?text=+) ` in progress` ` 1h 14m 28s` - 08 - [Programming Foundations: APIs and Web Services](Linkedin-Learning/08_Programming_Foundations_APIs_and_Web_Services/)
+  - [ ] ![#0D64C3](https://via.placeholder.com/12/0D64C3/000000?text=+) ` in progress` ` 53m 51s` - 09 - [Programming Foundations: Software Testing/QA](Linkedin-Learning/09_Programming_Foundations_Software_TestingQA/)
   - [ ] ![#0D64C3](https://via.placeholder.com/12/0D64C3/000000?text=+) ` in progress` ` 2h 55m 49s` - 10 - [Git Essential Training: The Basics](Linkedin-Learning/Git-Essential-Training-The-Basics/)
   - [ ] ![#0D64C3](https://via.placeholder.com/12/0D64C3/000000?text=+) ` in progress` ` 2h 45m 37s` - 11 -[HTML Essential Training](Linkedin-Learning/Html-Essential-Training/)
   - [ ] ![#0D64C3](https://via.placeholder.com/12/0D64C3/000000?text=+) ` in progress` ` 4h 29m 7s` - 12- [CSS Essential Training](Linkedin-Learning/CSS-Essential-Training/)
