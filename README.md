@@ -37,7 +37,7 @@ Kalbonyan Elmarsos is an Egyptian non-profit organization whose goal is to help 
   - [x] ![#0D64C3](https://via.placeholder.com/12/0D64C3/000000?text=+) ` done` ` 1h 45m 30s` - 05 - [Programming Foundations: Algorithms](LinkedIn_Learning/05_Programming_Foundations_Algorithms)
   - [ ] ![#0D64C3](https://via.placeholder.com/12/0D64C3/000000?text=+) ` in progress` ` 1h 44m 23s` - 06 - [Programming Foundations: Design Patterns](LinkedIn_Learning/06_Programming_Foundations_Design_Patterns/)
   - [x] ![#0D64C3](https://via.placeholder.com/12/0D64C3/000000?text=+) ` done` ` 1h 25m 15s` - 07 - [Programming Foundations: Databases](LinkedIn_Learning/07_Programming_Foundations_Databases/)
-  - [ ] ![#0D64C3](https://via.placeholder.com/12/0D64C3/000000?text=+) ` in progress` ` 1h 14m 28s` - 08 - [Programming Foundations: APIs and Web Services](LinkedIn_Learning/08_Programming_Foundations_APIs_and_Web_Services/)
+  - [x] ![#0D64C3](https://via.placeholder.com/12/0D64C3/000000?text=+) ` in progress` ` 1h 14m 28s` - 08 - [Programming Foundations: APIs and Web Services](LinkedIn_Learning/08_Programming_Foundations_APIs_and_Web_Services/)
   - [ ] ![#0D64C3](https://via.placeholder.com/12/0D64C3/000000?text=+) ` in progress` ` 53m 51s` - 09 - [Programming Foundations: Software Testing/QA](LinkedIn_Learning/09_Programming_Foundations_Software_TestingQA/)
   - [ ] ![#0D64C3](https://via.placeholder.com/12/0D64C3/000000?text=+) ` in progress` ` 2h 55m 49s` - 10 - [Git Essential Training: The Basics](LinkedIn-Learning/Git-Essential-Training-The-Basics/)
   - [ ] ![#0D64C3](https://via.placeholder.com/12/0D64C3/000000?text=+) ` in progress` ` 2h 45m 37s` - 11 -[HTML Essential Training](LinkedIn-Learning/Html-Essential-Training/)
