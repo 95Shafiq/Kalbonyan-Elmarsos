@@ -40,7 +40,7 @@ Kalbonyan Elmarsos is an Egyptian non-profit organization whose goal is to help 
   - [x] ![#0D64C3](https://via.placeholder.com/12/0D64C3/000000?text=+) ` done` ` 1h 14m 28s` - 08 - [Programming Foundations: APIs and Web Services](LinkedIn_Learning/08_Programming_Foundations_APIs_and_Web_Services/)
   - [x] ![#0D64C3](https://via.placeholder.com/12/0D64C3/000000?text=+) ` done` ` 53m 51s` - 09 - [Programming Foundations: Software Testing/QA](LinkedIn_Learning/09_Programming_Foundations_Software_TestingQA/)
   - [x] ![#0D64C3](https://via.placeholder.com/12/0D64C3/000000?text=+) ` done` ` 2h 10m 49s` - 10 - [Learning Github](LinkedIn_Learning/10_Learning_Github)
-  - [ ] ![#0D64C3](https://via.placeholder.com/12/0D64C3/000000?text=+) ` in progress` ` 37h 35m 24s` - 11 -[Build Responsive Real-World Websites with HTML and CSS](Udemy/11_HTML_CSS_Essentials/)
+  - [x] ![#0D64C3](https://via.placeholder.com/12/0D64C3/000000?text=+) ` done` ` 37h 35m 24s` - 11 -[Build Responsive Real-World Websites with HTML and CSS](Udemy/11_HTML_CSS_Essentials/)
         <br />
 
 <img src="https://img.shields.io/badge/Total%20Number%20Of%20Hours%20For%20This%20Courses-55h57m-blue">
